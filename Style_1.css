@@ -11,3 +11,15 @@ img {
 #up:active {
     transform: rotate(-90deg);
 }
+
+#cloud:active{
+    transform: translate(30px, -50px);
+}
+
+#flower:active{
+    transform: scale(2, 2);
+}
+
+#cat:active{
+    transform: translate(0px, 100px) rotate(190deg);
+}
