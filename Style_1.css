@@ -8,6 +8,6 @@ img {
 }
 /*:active works only when clicked on*/
 
-#up:activate {
+#up:active {
     transform: rotate(-90deg);
 }
